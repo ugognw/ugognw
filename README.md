@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm working on tools for and applications of computational catalysis in the ComCat Lab at Simon Fraser University, Canada.
+
 <!--
 **ugognw/ugognw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
